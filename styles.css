@@ -171,6 +171,10 @@ h1{
         height: 400px;
         width: 430px;
     }
+    .intro{
+        padding-top: 5%;
+        height: 600px;
+    }
     #achievements{
         height: 400px;
     }
